@@ -4,4 +4,4 @@ The programs of course: data analysis and calculation, Southwest Jiaotong Univer
 ## Prerequisites
   Python 3.6 <p>
   Jupyter notebook <p>
-  and other Python Librarys used in programs
+  and other Python Libraries used in programs
